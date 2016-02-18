@@ -1,0 +1,11 @@
+{
+  "Heading"				:	"My personal Super Duper Biography",
+  "BiographyOne"		:	"I was born on a very beautiful sunny October day  in Balikesir, Turkey. I grew up there with my friends and relatives.  I moved Eskisehir, which is one of the really beautiful old cities of Turkey. I started my university life there. I studied computer engineering at Eskisehir Osmangazi University. I forged life-long friendships there with my housemates and school mates.",
+  "BiographyTwo"		:	"After I graduated as a computer engineer, I decided to come to Canada to study web technologies and to experience Canadian lifestyle with beautiful Canadian people. I visited Niagara Falls which it was a magical place to be and also unexpectedly wet. I have tried poutine and butter tarts and  liked both of them. Canadian Maple syrup makes anything better which is kind of a surprise for me.",
+  "ProjectOneTitle"		:	"Transformers BumbleBee",
+  "ProjectOneText"		:	"This project is created for Web and Internet fundamentals to display css and layout skill of mine. It uses absolute positioning for some of the navigation. This method separates that element from page flow and puts it tottaly different flow space. As a imagery I used bumblebee's image fom Transformers animated series.",
+  "ProjectTwoTitle"		:	"Artificial Intelligence Unofficial Website",
+  "ProjectTwoText"		:	"This project is created for assignment in Web and Internet fundamentals. For this project I started with a Bootstrap template called Greyscale. I added my own photo gallery and cast part to the template and delete the map part. I customized landing page picture with one of the most dramatic scenes from the movie.",
+  "ProjectThreeTitle"	:	"Taxonomies and Personas For Informatin Architecture",
+  "ProjectThreeText"	:	"This project is made for Information Architecture's final project. This project contains 5 different personas and use-cases one primary three secondary and one tertiary persona for Georgian college website. Our primary persona was newly graduated high school student. Secondaries are mature student, international student and current student. Our tertiary persona was Georgian College alumni."
+}
